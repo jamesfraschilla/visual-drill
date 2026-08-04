@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Visual Drill">
+  <rect width="512" height="512" rx="96" fill="#0b0f14"/>
+  <circle cx="142" cy="246" r="72" fill="#106df3"/>
+  <path d="M256 164l92 184H164z" fill="#00e600"/>
+  <path d="M389 150l24 74h78l-63 46 24 74-63-46-63 46 24-74-63-46h78z" fill="#ff1010"/>
+  <text x="256" y="405" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="800" text-anchor="middle">6</text>
+</svg>
