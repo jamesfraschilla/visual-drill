@@ -36,7 +36,7 @@ const DEFAULT_CONFIG = {
   minimumDigit: 0,
   maximumDigit: 9,
   digitColorCount: 3,
-  digitColors: ["#106df3", "#00e600", "#ffd400"],
+  digitColors: ["#ff1010", "#00e600", "#106df3"],
   shapes: [...DRILL_SHAPES],
   shapeColorCount: 3,
   shapeColors: ["#ff1010", "#00e600", "#106df3"],
