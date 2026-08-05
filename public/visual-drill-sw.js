@@ -1,4 +1,4 @@
-const CACHE_NAME = "visual-drill-offline-v1";
+const CACHE_NAME = "visual-drill-offline-v2";
 const CACHE_PREFIX = "visual-drill-offline-";
 
 function rootPath() {

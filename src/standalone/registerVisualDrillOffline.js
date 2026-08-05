@@ -1,4 +1,4 @@
-const OFFLINE_CACHE_NAME = "visual-drill-offline-v1";
+const OFFLINE_CACHE_NAME = "visual-drill-offline-v2";
 
 function absoluteUrl(value) {
   try {
